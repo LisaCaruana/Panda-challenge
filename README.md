@@ -3,7 +3,9 @@
 
 A dive into using Pandas to analyze data, this project helps a fictional school district make strategic decisions regarding future school budgets and priorities by analyzing a district-wide data set. 
 
-The first aspect of the project analyzes district-wide standardized test results, aggregating data on student math and reading scores and school demographics to highlight obvious trends in school performance. The final report includes: 
+The first aspect of the project analyzes district-wide standardized test results, aggregating data on student math and reading scores and school demographics to highlight obvious trends in school performance. 
+
+The final report includes: 
 
 
 ## District Summary
