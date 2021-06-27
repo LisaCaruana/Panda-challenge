@@ -1,5 +1,5 @@
 # Panda-challenge
-PyCitySchools
+# PyCitySchools
 
 A dive into using Pandas to analyze data, this project helps a fictional school district make strategic decisions regarding future school budgets and priorities by analyzing a district-wide data set. 
 
