@@ -91,7 +91,7 @@ The above breakdown is repeated, but this time schools are grouped based on scho
 
 
 - - -
-This assignment is from data Denver University's Data Analytics Boot Camp. 
+This assignment is from the University of Denver's Data Analytics Boot Camp. 
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
